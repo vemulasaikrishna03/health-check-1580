@@ -1,9 +1,161 @@
-TIMESTAMP 2024-01-02T08:41:36Z
-{"name":"Celery-beat","time":"2024-01-02T08:41:36Z","status":"Failure"}
-{"name":"Celery","time":"2024-01-02T08:41:36Z","status":"Failure"}
-{"name":"Nginx-server","time":"2024-01-02T08:41:36Z","status":"Failure"}
-{"name":"postgres-Sql","time":"2024-01-02T08:41:36Z","status":"Success"}
-{"name":"rabbtMq","time":"2024-01-02T08:41:36Z","status":"Failure"}
-{"name":"redis","time":"2024-01-02 14:11:36","status":"Failure"}
-{"name":"uwisgi-server","time":"2024-01-02T08:41:36Z","status":"Failure"}
+TIMESTAMP 2024-01-02T08:47:47Z
+{"name":"Celery-beat","time":"2024-01-02T08:47:47Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T08:47:47Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T08:47:47Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T08:47:47Z","status":"Success"}
+{"name":"rabbtMq","time":"2024-01-02T08:47:47Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:17:47","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T08:47:47Z","status":"Failure"}
+.......................................................................................................
+TIMESTAMP 2024-01-02T08:55:24Z
+{"name":"Celery-beat","time":"2024-01-02T08:55:24Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T08:55:24Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T08:55:24Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T08:55:24Z","status":"Success"}
+{"name":"rabbtMq","time":"2024-01-02T08:55:24Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:25:24","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T08:55:24Z","status":"Failure"}
+.......................................................................................................
+TIMESTAMP 2024-01-02T08:55:54Z
+{"name":"Celery-beat","time":"2024-01-02T08:55:54Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T08:55:54Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T08:55:54Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T08:55:54Z","status":"Failure"}
+{"name":"rabbtMq","time":"2024-01-02T08:55:55Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:25:55","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T08:55:55Z","status":"Failure"}
+.......................................................................................................
+TIMESTAMP 2024-01-02T09:07:50Z
+{"name":"Celery-beat","time":"2024-01-02T09:07:50Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T09:07:50Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T09:07:50Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T09:07:50Z","status":"Failure"}
+Checking database connection...
+Database connection failed!
+{"name":"rabbtMq","time":"2024-01-02T09:07:50Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:37:50","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T09:07:50Z","status":"Failure"}
+.......................................................................................................
+TIMESTAMP 2024-01-02T09:08:17Z
+{"name":"Celery-beat","time":"2024-01-02T09:08:17Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T09:08:17Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T09:08:17Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T09:08:17Z","status":"Success"}
+Checking database connection...
+Database connection failed!
+{"name":"rabbtMq","time":"2024-01-02T09:08:47Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:38:47","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T09:08:47Z","status":"Failure"}
+.......................................................................................................
+TIMESTAMP 2024-01-02T09:09:57Z
+{"name":"Celery-beat","time":"2024-01-02T09:09:57Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T09:09:57Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T09:09:57Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T09:09:57Z","status":"Success"}
+Checking database connection...
+Database connection failed!
+{"name":"rabbtMq","time":"2024-01-02T09:09:59Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:39:59","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T09:09:59Z","status":"Failure"}
+.......................................................................................................
+TIMESTAMP 2024-01-02T09:10:19Z
+{"name":"Celery-beat","time":"2024-01-02T09:10:19Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T09:10:19Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T09:10:19Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T09:10:19Z","status":"Success"}
+Checking database connection...
+Database connection failed!
+{"name":"rabbtMq","time":"2024-01-02T09:10:35Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:40:35","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T09:10:35Z","status":"Failure"}
+.......................................................................................................
+TIMESTAMP 2024-01-02T09:11:37Z
+{"name":"Celery-beat","time":"2024-01-02T09:11:37Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T09:11:37Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T09:11:37Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T09:11:37Z","status":"Success"}
+Checking database connection...
+Database connection failed!
+Checking active connections...
+Checking disk space usage...
+{"name":"rabbtMq","time":"2024-01-02T09:11:42Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:41:42","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T09:11:42Z","status":"Failure"}
+.......................................................................................................
+TIMESTAMP 2024-01-02T09:15:15Z
+{"name":"Celery-beat","time":"2024-01-02T09:15:15Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T09:15:15Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T09:15:15Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T09:15:15Z","status":"Success"}
+Checking database connection...
+Database connection failed!
+Checking active connections...
+Checking disk space usage...
+{"name":"rabbtMq","time":"2024-01-02T09:15:20Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:45:20","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T09:15:20Z","status":"Failure"}
+.......................................................................................................
+TIMESTAMP 2024-01-02T09:16:21Z
+{"name":"Celery-beat","time":"2024-01-02T09:16:21Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T09:16:21Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T09:16:21Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T09:16:21Z","status":"Success"}
+Checking database connection...
+Database connection failed!
+Checking active connections...
+Checking disk space usage...
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  2.9M  1.6G   1% /run
+/dev/nvme0n1p2  468G   50G  395G  12% /
+tmpfs           7.7G  103M  7.6G   2% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  511M   59M  453M  12% /boot/efi
+tmpfs           1.6G  160K  1.6G   1% /run/user/1000
+{"name":"rabbtMq","time":"2024-01-02T09:16:29Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:46:29","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T09:16:29Z","status":"Failure"}
+.......................................................................................................
+TIMESTAMP 2024-01-02T09:17:57Z
+{"name":"Celery-beat","time":"2024-01-02T09:17:57Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T09:17:57Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T09:17:58Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T09:17:58Z","status":"Success"}
+{"name":"Database-Connection for postgres-Sql","time":"2024-01-02T09:17:58Z","status":"Failure"}
+Checking active connections...
+Checking disk space usage...
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  2.9M  1.6G   1% /run
+/dev/nvme0n1p2  468G   50G  395G  12% /
+tmpfs           7.7G  103M  7.6G   2% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  511M   59M  453M  12% /boot/efi
+tmpfs           1.6G  160K  1.6G   1% /run/user/1000
+{"name":"rabbtMq","time":"2024-01-02T09:18:03Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:48:03","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T09:18:03Z","status":"Failure"}
+.......................................................................................................
+TIMESTAMP 2024-01-02T09:19:11Z
+{"name":"Celery-beat","time":"2024-01-02T09:19:11Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T09:19:11Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T09:19:11Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T09:19:11Z","status":"Success"}
+TIMESTAMP 2024-01-02T09:25:52Z
+{"name":"Celery-beat","time":"2024-01-02T09:25:52Z","status":"Failure"}
+{"name":"Celery","time":"2024-01-02T09:25:52Z","status":"Failure"}
+{"name":"Nginx-server","time":"2024-01-02T09:25:52Z","status":"Failure"}
+{"name":"postgres-Sql","time":"2024-01-02T09:25:52Z","status":"Success"}
+{"name":"Database-Connection for postgres-Sql","time":"2024-01-02T09:25:52Z","status":"Success"}
+Checking active connections...
+6
+Checking disk space usage...
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  2.9M  1.6G   1% /run
+/dev/nvme0n1p2  468G   50G  395G  12% /
+tmpfs           7.7G  105M  7.6G   2% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  511M   59M  453M  12% /boot/efi
+tmpfs           1.6G  148K  1.6G   1% /run/user/1000
+{"name":"rabbtMq","time":"2024-01-02T09:26:01Z","status":"Failure"}
+{"name":"redis","time":"2024-01-02 14:56:01","status":"Failure"}
+{"name":"uwisgi-server","time":"2024-01-02T09:26:01Z","status":"Failure"}
 .......................................................................................................
