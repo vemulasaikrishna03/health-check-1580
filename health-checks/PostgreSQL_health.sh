@@ -19,16 +19,16 @@ fi
 OUTPUT='{"name":"postgres-Sql","time":"'${TIMESTAMP}'","status":"'${STATUS}'"}'
 echo "$OUTPUT"
 
-
 PGHOST="localhost"
 PGPORT="5432"
 PGUSER="postgres"
 PGDATABASE="template1"
+PGPASSWORD="root"  # Add password as a variable
 
+# Modified commands using the password variable:
 
-Checking database connection
-
-psql -h $PGHOST -p $PGPORT -U $PGUSER -d $PGDATABASE -tAc "SELECT 1" >/dev/null 2>&1
+# Checking database connection
+psql -h $PGHOST -p $PGPORT -U $PGUSER -d $PGDATABASE -tAc "SELECT 1" -w >/dev/null 2>&1
 if [ $? -eq 0 ]; then
    STATUS="Success"
 else
@@ -38,11 +38,10 @@ fi
 OUTPUT='{"name":"Database-Connection for postgres-Sql","time":"'${TIMESTAMP}'","status":"'${STATUS}'"}'
 echo "$OUTPUT"
 
-
-Check active connections
+# Check active connections
 echo "Checking active connections..."
-psql -h $PGHOST -p $PGPORT -U $PGUSER -d $PGDATABASE -tAc "SELECT count(*) FROM pg_stat_activity;" 
+psql -h $PGHOST -p $PGPORT -U $PGUSER -d $PGDATABASE -tAc "SELECT count(*) FROM pg_stat_activity;" -w
 
-Check disk space usage
+# Check disk space usage (no change needed)
 echo "Checking disk space usage..."
-df -h $PGDATA 
+df -h $PGDATA
