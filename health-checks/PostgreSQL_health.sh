@@ -3,11 +3,6 @@
 
 TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 
-#PGHOST="localhost"
-#PGPORT="5432"
-#PGUSER="postgres"
-#PGDATABASE="template1"
-
 
 if systemctl is-active --quiet postgresql; then
     STATUS="Success"
@@ -18,6 +13,12 @@ fi
 OUTPUT='{"name":"postgres-Sql","time":"'${TIMESTAMP}'","status":"'${STATUS}'"}'
 echo "$OUTPUT"
 
+
+
+#PGHOST="localhost"
+#PGPORT="5432"
+#PGUSER="postgres"
+#PGDATABASE="template1"
 
 
 #Checking database connection
